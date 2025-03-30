@@ -1,0 +1,20 @@
+{
+    "building_name": "sample_site",
+    "levels": {
+      "level1": {
+        "vertices": [
+          [0, 0, {"name": "A", "is_charger": true}],
+          [5, 0, {"name": "B"}],
+          [5, 5, {"name": "C"}],
+          [0, 5, {"name": "D", "is_charger": false}]
+        ],
+        "lanes": [
+          [0, 1, {"speed_limit": 2}],
+          [1, 2, {"speed_limit": 2}],
+          [2, 3, {"speed_limit": 2}],
+          [3, 0, {"speed_limit": 2}]
+        ]
+      }
+    }
+  }
+  
