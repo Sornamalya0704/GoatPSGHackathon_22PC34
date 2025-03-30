@@ -2,3 +2,4 @@ logging
 tkinter
 json
 math
+heapq
